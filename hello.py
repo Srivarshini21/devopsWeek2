@@ -1,1 +1,2 @@
-print("hello devOps commiting changes in branch2 ")
+
+print("finally conflict is resolved")
