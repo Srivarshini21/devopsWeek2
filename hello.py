@@ -1,1 +1,2 @@
-print("hello devOps in week2 ")
+
+print("finally conflict is resolved")
